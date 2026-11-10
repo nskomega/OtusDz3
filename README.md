@@ -1,4 +1,13 @@
 # OtusDz3
+
+## О проекте
+
+Учебная работа курса OTUS, 2022 год. Dependency Injection, Service Locator и выделение Core в Swift Package.
+
+Это исторический пример iOS/Android-кода. Основное текущее направление — Flutter / Dart; актуальный открытый Flutter-проект — [Objectno](https://github.com/nskomega/Objectno).
+
+## Исходные материалы
+
 Домашнее задание
 
 Реализация Service Locator и Dependency Injection и изолированности слоев в приложении
